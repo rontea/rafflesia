@@ -1,5 +1,5 @@
 name: Rafflesia Events
-description: Event Mitigation Checklist
+description: Event Mitigation Checklist (Working in Progress)
 package: rafflesia module
 type: module
 dependencies:
