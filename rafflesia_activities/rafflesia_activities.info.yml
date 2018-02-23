@@ -1,5 +1,5 @@
 name: Rafflesia Activities
-description: Activate Activity Module for Adding new Activities
+description: 'Activate Activity Module for Adding new Activities (Add This)'
 package: rafflesia module
 type: module
 dependencies:
