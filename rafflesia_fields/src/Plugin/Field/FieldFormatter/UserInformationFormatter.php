@@ -30,8 +30,6 @@ class UserInformationFormatter extends FormatterBase {
     public function viewElements(FieldItemListInterface $items,$langcode) {
       $element = array();
       
-      
-      
       foreach ($items as $delta => $item) {
         $element[$delta] = array(
           '#markup' => $this->t('@first @last', array(
